@@ -1,9 +1,9 @@
-package com.company.java.strings;
+package com.company.java.strings.reverse;
 
 import java.io.*;
 import java.util.*;
 
-    public class StringReverse  {
+    public class Solution {
 
         public static void main(String[] args) {
 

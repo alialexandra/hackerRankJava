@@ -1,8 +1,8 @@
-package com.company.java.strings;
+package com.company.java.strings.anagrams;
 
 import java.util.Arrays;
 
-public class StringAnagrams {
+public class Solution {
 
     public static boolean areAnagrams(String str1, String str2) {
         // Convert the strings to lowercase

@@ -1,8 +1,8 @@
-package com.company.java.strings;
+package com.company.java.strings.intoduction;
 import java.io.*;
 import java.util.*;
 
-class StringsIntroduction {
+class Solution {
 
     public static void main(String[] args) {
 
